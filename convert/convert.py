@@ -1,4 +1,4 @@
-text_file_path = './Dense.nvm'
+text_file_path = './Data_path.nvm'
 
 
 with open(text_file_path,'r') as f:
